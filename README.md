@@ -1,9 +1,9 @@
                                                                         # FLOWERS
                                                                      #ALEXNET PROJECT
                                                                  
-![Alt text]([image_url](https://www.imagewoof.com/wp-content/uploads/2020/09/summer-flowers-1590678054.jpg))
+#![Alt text]([image_url](https://www.imagewoof.com/wp-content/uploads/2020/09/summer-flowers-1590678054.jpg))
 
-#OBJECTIVE
+# OBJECTIVE
 
 The objective of an AlexNet Flowers project is to create a deep learning model that can accurately classify images of flowers into their respective species. The model should be trained using the AlexNet architecture, which is a convolutional neural network (CNN) that is capable of learning and extracting meaningful features from images.
 
