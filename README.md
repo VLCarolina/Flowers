@@ -1,5 +1,5 @@
                                                                         # FLOWERS
-                                                                     #ALEXNET PROJECT
+                                                                     # ALEXNET PROJECT
                                                                  
 #![Alt text]([image_url](https://www.imagewoof.com/wp-content/uploads/2020/09/summer-flowers-1590678054.jpg))
 
@@ -17,7 +17,7 @@ Evaluating the model's performance on the validation set to ensure it is not ove
 Testing the model on a separate test set to determine its real-world performance.
 Visualizing the results of the model's predictions, such as generating a confusion matrix or creating a web application to classify user-provided images of flowers.
 
-#ALEXNET ARCHITECTURE
+# ALEXNET ARCHITECTURE
 AlexNet is a convolutional neural network architecture designed for image classification. It was developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in 2012 and achieved significant success in the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) that year.
 
 The AlexNet architecture consists of eight layers in total, including five convolutional layers and three fully connected layers. The first five layers are convolutional layers with various filter sizes, strides, and padding. These layers are responsible for extracting features from the input image. The first two convolutional layers have 96 filters each, while the next two have 256 filters each. The fifth convolutional layer has 384 filters.
@@ -28,7 +28,7 @@ AlexNet also incorporates several other techniques to improve performance, inclu
 
 Overall, the architecture of AlexNet is characterized by its large number of filters and neurons, its use of multiple GPUs for training, and its incorporation of techniques to improve generalization and prevent overfitting.
 
-#FLOWERS' PROJECT
+# FLOWERS' PROJECT
 - This project contains 30 different types of flowers.
 - I collected 5 pictures of each flower.
 - Each type of flower has one folder inside the main folders Train and Valid, when the pictures of each type of flower are divided: 4 of 5 pictures are in the Train folder and 1 is in the Valid folder. 
