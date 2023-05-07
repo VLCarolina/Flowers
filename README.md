@@ -3,6 +3,7 @@
                                                                  
 ![Alt text](https://www.imagewoof.com/wp-content/uploads/2020/09/summer-flowers-1590678054.jpg)
 
+
 # OBJECTIVE
 
 The objective of an AlexNet Flowers project is to create a deep learning model that can accurately classify images of flowers into their respective species. The model should be trained using the AlexNet architecture, which is a convolutional neural network (CNN) that is capable of learning and extracting meaningful features from images.
@@ -47,3 +48,4 @@ Overall, the architecture of AlexNet is characterized by its large number of fil
 Doing all this process we create data that contain information about 30 different types of flowers and when we put information about one new picture the system the Alexnet model runs and star to find similarities pixel by pixel between the new picture and the data created before. No matter the size because we standardized the size and no matter the position.
 Alexnet does a simulation and works like the human eyes doing a picture's scan pixel by pixel to find similarities or recognize images and associate with images that one person knows or saw before. As human eyes, no matter the picture's position our eyes and Alexnet net do a process to recognize the picture wherever its position is.
 
+![Alt text](https://github.com/VLCarolina/Flowers/blob/main/images1.png)
