@@ -39,7 +39,7 @@ Overall, the architecture of AlexNet is characterized by its large number of fil
 # FLOWERS' PROJECT
 - This project contains 30 different types of flowers.
 - I collected 5 pictures of each flower.
-- Each type of flower has one folder inside the main folders Train and Valid, when the pictures of each type of flower are divided: 4 of 5 pictures are in the Train folder and 1 is in the Valid folder. 
+- Each type of flower has one folder inside the main folders Train and Valid, when the pictures of each type of flower are divided: 4 of 5 pictures are in the Train folder and 1 is in the Valid folder. https://drive.google.com/drive/folders/1WpXeV5qGCkv5Pl95fXWp6k9p1eq0iZ5J?usp=share_link
 - The folders are uploaded to the google drive account.
 - Creating the Alexnet project in Github (steps):
     - Linking the Google Drive folder with the Flowers Notebook    
