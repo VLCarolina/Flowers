@@ -27,6 +27,9 @@ The three fully connected layers at the end of the network are responsible for c
 
 AlexNet also incorporates several other techniques to improve performance, including overlapping pooling, local response normalization, and data augmentation.
 
+# PROJECT's RESULTS
+
+
 Overall, the architecture of AlexNet is characterized by its large number of filters and neurons, its use of multiple GPUs for training, and its incorporation of techniques to improve generalization and prevent overfitting.
 
 # FLOWERS' PROJECT
