@@ -1,7 +1,7 @@
                                                                         # FLOWERS
                                                                      # ALEXNET PROJECT
                                                                  
-![Alt text]([image_url](https://www.imagewoof.com/wp-content/uploads/2020/09/summer-flowers-1590678054.jpg))
+![Alt text](https://www.imagewoof.com/wp-content/uploads/2020/09/summer-flowers-1590678054.jpg)
 
 # OBJECTIVE
 
